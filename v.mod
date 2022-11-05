@@ -1,5 +1,5 @@
 Module {
-	name: 'v_package_template'
+	name: 'vpathlib'
 	description: ''
 	version: '0.0.1'
 	license: 'MIT'

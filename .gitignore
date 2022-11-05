@@ -1,6 +1,6 @@
 # Binaries for programs and plugins
 main
-v_package_template
+vpathlib
 *.exe
 *.exe~
 *.so
